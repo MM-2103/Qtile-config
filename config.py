@@ -144,7 +144,7 @@ layouts = [
     layout.Columns(
         border_focus_stack=["#535d6c", "#8f3d3d"],
         border_width=1,
-        margin=5
+        margin=8
     ),
     layout.Max(),
     # Try more layouts by unleashing below layouts.
